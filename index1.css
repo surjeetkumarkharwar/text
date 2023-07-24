@@ -1,0 +1,11 @@
+*li{
+    --bg-Color:#c12727;
+    --text-Color:#fff;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
